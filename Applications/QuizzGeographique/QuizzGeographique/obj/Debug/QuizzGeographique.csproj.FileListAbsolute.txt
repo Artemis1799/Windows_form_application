@@ -1,0 +1,10 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.frmQuizz.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.Properties.Resources.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\bin\Debug\QuizzGeographique.exe.config
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\bin\Debug\QuizzGeographique.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\bin\Debug\QuizzGeographique.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\QuizzGeographique\QuizzGeographique\obj\Debug\QuizzGeographique.pdb

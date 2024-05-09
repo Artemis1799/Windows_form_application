@@ -1,0 +1,25 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage_2.Form1.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.AssemblyInfoInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.AssemblyInfo.cs
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.sourcelink.json
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\Voyage 2.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\Voyage 2.deps.json
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\Voyage 2.runtimeconfig.json
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\Voyage 2.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\Voyage 2.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\refint\Voyage 2.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.genruntimeconfig.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\ref\Voyage 2.dll
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage 2.csproj.Up2Date
+C:\Users\EnoBe\Documents\University\BUT A1\S2\D21\Voyage 2\Voyage 2\obj\Debug\net8.0-windows\Voyage_2.Form2.resources

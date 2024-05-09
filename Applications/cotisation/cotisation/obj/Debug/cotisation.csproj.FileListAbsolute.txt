@@ -1,0 +1,10 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.frmCotisation.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.Properties.Resources.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\bin\Debug\cotisation.exe.config
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\bin\Debug\cotisation.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\bin\Debug\cotisation.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\cotisation\cotisation\obj\Debug\cotisation.pdb

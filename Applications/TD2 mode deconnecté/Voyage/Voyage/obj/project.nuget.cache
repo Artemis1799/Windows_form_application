@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtJd9Y2NXeavT1IXXw+boK7Dr3b/TF1z1VsEWsUe7UIwnFfftfmhWK6aCk/3OMqbRqJzoF0QAyH90xPuCRTmdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EnoBe\\Documents\\University\\BUT A1\\S2\\D21\\TD2 mode deconnecté\\Voyage\\Voyage\\Voyage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EnoBe\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\EnoBe\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\bin\Debug\Traducteur.exe.config
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\bin\Debug\Traducteur.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\bin\Debug\Traducteur.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.frmTraducteur.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.Properties.Resources.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Traducteur\Traducteur\obj\Debug\Traducteur.frmNouveau.resources

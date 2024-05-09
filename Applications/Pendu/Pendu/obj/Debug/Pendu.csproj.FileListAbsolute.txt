@@ -1,0 +1,10 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.frmMain.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.Properties.Resources.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\bin\Debug\Pendu.exe.config
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\bin\Debug\Pendu.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\bin\Debug\Pendu.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Pendu\Pendu\obj\Debug\Pendu.pdb

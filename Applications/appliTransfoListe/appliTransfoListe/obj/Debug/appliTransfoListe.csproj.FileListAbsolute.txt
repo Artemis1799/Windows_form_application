@@ -1,0 +1,10 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\bin\Debug\appliTransfoListe.exe.config
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\bin\Debug\appliTransfoListe.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\bin\Debug\appliTransfoListe.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.frmTranso.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.Properties.Resources.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\appliTransfoListe\appliTransfoListe\obj\Debug\appliTransfoListe.pdb

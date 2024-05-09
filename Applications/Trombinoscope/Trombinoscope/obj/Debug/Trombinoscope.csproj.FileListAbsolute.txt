@@ -1,0 +1,11 @@
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\bin\Debug\Trombinoscope.exe.config
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\bin\Debug\Trombinoscope.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\bin\Debug\Trombinoscope.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.csproj.AssemblyReference.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.frmMain.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.Properties.Resources.resources
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.csproj.GenerateResource.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.csproj.CoreCompileInputs.cache
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.exe
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.pdb
+C:\Users\EnoBe\Documents\University\BUT A1\S2\A21\Applications\Trombinoscope\Trombinoscope\obj\Debug\Trombinoscope.frmRecap.resources
